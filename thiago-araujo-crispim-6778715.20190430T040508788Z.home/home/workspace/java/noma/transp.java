@@ -3,6 +3,8 @@ public class transp {
     public static void main(String args[]) {
         Scanner teclado = new Scanner(System.in);
         
+        //Programa para transpor matrizes
+        
         int n = teclado.nextInt();
         int I[][] = new int[n][n];
         int J[][] = new int[n][m];
